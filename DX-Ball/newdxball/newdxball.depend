@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1533035860 source:c:\users\saikat\desktop\newdxball\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810122 c:\users\saikat\desktop\newdxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533063279 source:c:\users\shibl\desktop\newdxball\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810124 c:\users\shibl\desktop\newdxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533063280 source:i:\newdxball\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810124 i:\newdxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533091162 source:f:\dx-ball\newdxball\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810124 f:\dx-ball\newdxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
