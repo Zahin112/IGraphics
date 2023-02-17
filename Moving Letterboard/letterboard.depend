@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1493431842 source:f:\1705112\letterboard\imain.cpp
+	"iGraphics.h"
+
+1493810122 f:\1705112\letterboard\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1529005823 source:f:\1705112\letterboard\textinputdemo.cpp
+	"iGraphics.h"
+
